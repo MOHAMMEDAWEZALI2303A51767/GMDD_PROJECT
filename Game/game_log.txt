@@ -1,0 +1,18 @@
+Mono path[0] = 'C:/Users/chari/Downloads/3d-escape-game-main/3d-escape-game-main/Game/YouHave[BLANK]Seconds_Data/Managed'
+Mono config path = 'C:/Users/chari/Downloads/3d-escape-game-main/3d-escape-game-main/Game/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.8f1 (60781d942082)
+[Subsystems] Discovering subsystems at path C:/Users/chari/Downloads/3d-escape-game-main/3d-escape-game-main/Game/YouHave[BLANK]Seconds_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD RadeonT 610M (ID=0x1506)
+    Vendor:   (null)
+    VRAM:     2073 MB
+    Driver:   32.0.21030.11004
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.292 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.905000 ms

@@ -1,0 +1,9 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emory[Cc]aptures/
+.vs/
+*.csproj.user
+*.sln.docstates
